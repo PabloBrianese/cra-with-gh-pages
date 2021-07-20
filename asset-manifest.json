@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cra-with-gh-pages/static/css/main.a617e044.chunk.css",
+    "main.js": "/cra-with-gh-pages/static/js/main.7ae58e1b.chunk.js",
+    "main.js.map": "/cra-with-gh-pages/static/js/main.7ae58e1b.chunk.js.map",
+    "runtime-main.js": "/cra-with-gh-pages/static/js/runtime-main.677842ef.js",
+    "runtime-main.js.map": "/cra-with-gh-pages/static/js/runtime-main.677842ef.js.map",
+    "static/js/2.c83c3e23.chunk.js": "/cra-with-gh-pages/static/js/2.c83c3e23.chunk.js",
+    "static/js/2.c83c3e23.chunk.js.map": "/cra-with-gh-pages/static/js/2.c83c3e23.chunk.js.map",
+    "static/js/3.ac96b5a7.chunk.js": "/cra-with-gh-pages/static/js/3.ac96b5a7.chunk.js",
+    "static/js/3.ac96b5a7.chunk.js.map": "/cra-with-gh-pages/static/js/3.ac96b5a7.chunk.js.map",
+    "index.html": "/cra-with-gh-pages/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cra-with-gh-pages/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c83c3e23.chunk.js.LICENSE.txt": "/cra-with-gh-pages/static/js/2.c83c3e23.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cra-with-gh-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677842ef.js",
+    "static/js/2.c83c3e23.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7ae58e1b.chunk.js"
+  ]
+}
